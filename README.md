@@ -6,16 +6,27 @@ The data used for this project is extracted from the insurance complaints inform
 ## Data Features
 The datasets extracted for this study have 11 different data elements which are given below. 
 Complaint number: This is a unique number identifying a specific complaint owner:
+
 Received date: The date that TDI received the complaint from the consumer
+
 Closed date: The date the complaint was closed
+
 Correspondent location: The correspondent location is the region of Texas
-Subject of complaint: The description of the person/entity against whom the complaint is filed.
-Subject name: The name of the person or entity against whom the complaint was filed.
-Subject ID: A unique number assigned to each subject person or entity.
-Line of coverage: The type of coverage about which the correspondent complains.
+
+Subject of complaint: The description of the person/entity against whom the complaint is filed
+
+Subject name: The name of the person or entity against whom the complaint was filed
+
+Subject ID: A unique number assigned to each subject person or entity
+
+Line of coverage: The type of coverage about which the correspondent complains
+
 Reason for complaint: The description of the reason the correspondent is complaining
+
 Disposition of complaint: The resolution of the complaint by TDI
+
 Type of complaint: The ICIS summaries and download files include confirmed complaints
+
 ###  Languages: 
 Python
 ### EDA & Machine Learning Models
